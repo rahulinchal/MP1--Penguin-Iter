@@ -1,5 +1,9 @@
 # Ekeeda-Mini-Project-1
 There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica.
+
+![culmen-depth](https://user-images.githubusercontent.com/111626329/225274299-2234cb48-669f-4d3b-99da-ab93bcba20d1.png)
+
+
 The columns in this dataset are:
 * species: penguin species (Chinstrap, Adélie, or Gentoo)
 * culmen_length_mm: culmen length (mm)
